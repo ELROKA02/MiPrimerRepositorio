@@ -1,3 +1,5 @@
 Hola soy yo es mi primer ejercicio de git
 
  este es un cambio jejejej
+
+Estoy escribiendo desde la copia
